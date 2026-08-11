@@ -16,6 +16,7 @@
 ||time.windows.com^
 ||time.apple.com^
 ||speed-cache.meituan.net^
+||achilles-gateway.meituan.com^
 ||cache-gps.meituan.net^
 ||order-gps-log.meituan.com^
 ||path-record.meituan.com^
